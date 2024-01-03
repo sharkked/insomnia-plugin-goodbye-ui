@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-goodbye-ui",
+  "version": "0.1.0",
+  "private": false,
+  "insomnia": {
+    "name": "goodbye-ui",
+    "displayName": "goodbye, ui",
+    "description": "Hides the application header"
+  },
+  "main": "main.js"
+}
